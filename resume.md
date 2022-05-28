@@ -3,7 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-CV
+Resume
 
 ## Currently
 
@@ -36,7 +36,7 @@ The 3rd-Class Scholarship for Outstanding Students at Northeastern  University
 ## Occupation
 
 `Jan 2022 - Aug 2022`
-__Research Assistant__, Prof Jung-Eun Kim
+__Research Assistant__, Prof. Jung-Eun Kim
 
 
 
