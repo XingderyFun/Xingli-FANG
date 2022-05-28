@@ -3,6 +3,8 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
+CV
+
 ## Currently
 
 I'm looking for a Computer Science or Computer Engineering Ph.D. Program starts in Spring 2023 or Fall 2023 in the U.S.
